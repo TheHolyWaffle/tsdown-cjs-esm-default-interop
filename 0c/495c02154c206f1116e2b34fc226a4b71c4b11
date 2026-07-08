@@ -1,0 +1,27 @@
+.gitignore
+  s_435a170b41bbe5::t_4ff03fe1721259 1-2
+package-lock.json
+  s_435a170b41bbe5::t_ce9f2212b76320 1-967
+package.json
+  s_435a170b41bbe5::t_3812114c64134d 1-22
+src/index.ts
+  s_435a170b41bbe5::t_e46bedc7e3c02c 1-4
+tsdown.config.ts
+  s_435a170b41bbe5::t_d0725597635c16 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0c495c02154c206f1116e2b34fc226a4b71c4b11",
+  "prompts": {},
+  "sessions": {
+    "s_435a170b41bbe5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "da87b95e-80e9-4bbc-973d-22928baf31f3",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "bert.degeyter <bert.degeyter@showpad.com>"
+    }
+  }
+}
